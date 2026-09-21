@@ -1,0 +1,29 @@
+{
+ "build": "a9485d8e97e3",
+ "scenes": [
+  {
+   "name": "scene_a",
+   "video_id": "41159648",
+   "split": "Training",
+   "role": "dev"
+  },
+  {
+   "name": "scene_b",
+   "video_id": "41159526",
+   "split": "Training",
+   "role": "dev"
+  },
+  {
+   "name": "scene_c",
+   "video_id": "42899577",
+   "split": "Training",
+   "role": "test"
+  },
+  {
+   "name": "scene_d",
+   "video_id": "41159654",
+   "split": "Training",
+   "role": "test"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "a01": {
+  "kind": "absent",
+  "label": "chair",
+  "targets": [
+   "obj_011",
+   "obj_012",
+   "obj_013",
+   "obj_014",
+   "obj_015",
+   "obj_016",
+   "obj_017",
+   "obj_018"
+  ],
+  "frames": {
+   "975": {
+    "visible_targets": []
+   },
+   "1045": {
+    "visible_targets": []
+   },
+   "1175": {
+    "visible_targets": []
+   }
+  }
+ },
+ "a02": {
+  "kind": "ambiguous",
+  "label": "sink",
+  "targets": [
+   "obj_022",
+   "obj_023",
+   "obj_024"
+  ],
+  "frames": {
+   "1015": {
+    "visible_targets": [
+     "obj_022",
+     "obj_023",
+     "obj_024"
+    ]
+   },
+   "1025": {
+    "visible_targets": [
+     "obj_022",
+     "obj_023",
+     "obj_024"
+    ]
+   },
+   "1210": {
+    "visible_targets": [
+     "obj_022",
+     "obj_023"
+    ]
+   }
+  }
+ },
+ "a03": {
+  "kind": "absent",
+  "label": "table",
+  "targets": [
+   "obj_028",
+   "obj_029"
+  ],
+  "frames": {
+   "95": {
+    "visible_targets": []
+   },
+   "1050": {
+    "visible_targets": []
+   },
+   "1170": {
+    "visible_targets": []
+   }
+  }
+ },
+ "a04": {
+  "kind": "qualified",
+  "label": "sofa",
+  "targets": [
+   "obj_026"
+  ],
+  "frames": {
+   "85": {
+    "visible_targets": [
+     "obj_026"
+    ]
+   },
+   "130": {
+    "visible_targets": [
+     "obj_026"
+    ]
+   },
+   "825": {
+    "visible_targets": [
+     "obj_026"
+    ]
+   }
+  }
+ },
+ "a05": {
+  "kind": "unique",
+  "label": "fireplace",
+  "targets": [
+   "obj_019"
+  ],
+  "frames": {
+   "60": {
+    "visible_targets": [
+     "obj_019"
+    ]
+   },
+   "450": {
+    "visible_targets": [
+     "obj_019"
+    ]
+   },
+   "1240": {
+    "visible_targets": [
+     "obj_019"
+    ]
+   }
+  }
+ },
+ "a06": {
+  "kind": "ambiguous",
+  "label": "chair",
+  "targets": [
+   "obj_011",
+   "obj_012",
+   "obj_013",
+   "obj_014",
+   "obj_015",
+   "obj_016",
+   "obj_017",
+   "obj_018"
+  ],
+  "frames": {
+   "125": {
+    "visible_targets": [
+     "obj_013",
+     "obj_014"
+    ]
+   },
+   "825": {
+    "visible_targets": [
+     "obj_014",
+     "obj_016"
+    ]
+   },
+   "1250": {
+    "visible_targets": [
+     "obj_011",
+     "obj_012",
+     "obj_013",
+     "obj_014",
+     "obj_015",
+     "obj_016",
+     "obj_017"
+    ]
+   }
+  }
+ },
+ "a07": {
+  "kind": "unique",
+  "label": "oven",
+  "targets": [
+   "obj_020"
+  ],
+  "frames": {
+   "785": {
+    "visible_targets": [
+     "obj_020"
+    ]
+   },
+   "960": {
+    "visible_targets": [
+     "obj_020"
+    ]
+   },
+   "1165": {
+    "visible_targets": [
+     "obj_020"
+    ]
+   }
+  }
+ },
+ "a08": {
+  "kind": "unique",
+  "label": "refrigerator",
+  "targets": [
+   "obj_021"
+  ],
+  "frames": {
+   "780": {
+    "visible_targets": [
+     "obj_021"
+    ]
+   },
+   "850": {
+    "visible_targets": [
+     "obj_021"
+    ]
+   },
+   "915": {
+    "visible_targets": [
+     "obj_021"
+    ]
+   }
+  }
+ },
+ "a09": {
+  "kind": "unique",
+  "label": "stove",
+  "targets": [
+   "obj_027"
+  ],
+  "frames": {
+   "980": {
+    "visible_targets": [
+     "obj_027"
+    ]
+   },
+   "1150": {
+    "visible_targets": [
+     "obj_027"
+    ]
+   },
+   "1160": {
+    "visible_targets": [
+     "obj_027"
+    ]
+   }
+  }
+ }
+}

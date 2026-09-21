@@ -1,0 +1,327 @@
+{
+ "scenes": {
+  "scene_a": [
+   {
+    "id": "a01",
+    "text": "the chair",
+    "frames": [
+     975,
+     1045,
+     1175
+    ]
+   },
+   {
+    "id": "a02",
+    "text": "the sink",
+    "frames": [
+     1015,
+     1025,
+     1210
+    ]
+   },
+   {
+    "id": "a03",
+    "text": "the table",
+    "frames": [
+     95,
+     1050,
+     1170
+    ]
+   },
+   {
+    "id": "a04",
+    "text": "the sofa nearest the stove",
+    "frames": [
+     85,
+     130,
+     825
+    ]
+   },
+   {
+    "id": "a05",
+    "text": "the fireplace",
+    "frames": [
+     60,
+     450,
+     1240
+    ]
+   },
+   {
+    "id": "a06",
+    "text": "the chair",
+    "frames": [
+     125,
+     825,
+     1250
+    ]
+   },
+   {
+    "id": "a07",
+    "text": "the oven",
+    "frames": [
+     785,
+     960,
+     1165
+    ]
+   },
+   {
+    "id": "a08",
+    "text": "the refrigerator",
+    "frames": [
+     780,
+     850,
+     915
+    ]
+   },
+   {
+    "id": "a09",
+    "text": "the stove",
+    "frames": [
+     980,
+     1150,
+     1160
+    ]
+   }
+  ],
+  "scene_b": [
+   {
+    "id": "b01",
+    "text": "the table",
+    "frames": [
+     12,
+     520,
+     948
+    ]
+   },
+   {
+    "id": "b02",
+    "text": "the chair",
+    "frames": [
+     100,
+     168,
+     336
+    ]
+   },
+   {
+    "id": "b03",
+    "text": "the chair nearest the stove",
+    "frames": [
+     492,
+     540,
+     960
+    ]
+   },
+   {
+    "id": "b04",
+    "text": "the stove",
+    "frames": [
+     236,
+     696,
+     920
+    ]
+   },
+   {
+    "id": "b05",
+    "text": "the stool nearest the sink",
+    "frames": [
+     8,
+     264,
+     1000
+    ]
+   },
+   {
+    "id": "b06",
+    "text": "the sink",
+    "frames": [
+     168,
+     200,
+     224
+    ]
+   },
+   {
+    "id": "b07",
+    "text": "the stove",
+    "frames": [
+     372,
+     420,
+     476
+    ]
+   },
+   {
+    "id": "b08",
+    "text": "the stool",
+    "frames": [
+     912,
+     932,
+     944
+    ]
+   },
+   {
+    "id": "b09",
+    "text": "the oven",
+    "frames": [
+     388,
+     412,
+     476
+    ]
+   }
+  ],
+  "scene_c": [
+   {
+    "id": "c01",
+    "text": "the chair",
+    "frames": [
+     27,
+     171,
+     240
+    ]
+   },
+   {
+    "id": "c02",
+    "text": "the sink",
+    "frames": [
+     396,
+     423,
+     456
+    ]
+   },
+   {
+    "id": "c03",
+    "text": "the oven",
+    "frames": [
+     402,
+     621,
+     723
+    ]
+   },
+   {
+    "id": "c04",
+    "text": "the tv",
+    "frames": [
+     30,
+     144,
+     672
+    ]
+   },
+   {
+    "id": "c05",
+    "text": "the oven",
+    "frames": [
+     444,
+     462,
+     483
+    ]
+   },
+   {
+    "id": "c06",
+    "text": "the stove",
+    "frames": [
+     237,
+     333,
+     381
+    ]
+   },
+   {
+    "id": "c07",
+    "text": "the table",
+    "frames": [
+     471,
+     516,
+     594
+    ]
+   }
+  ],
+  "scene_d": [
+   {
+    "id": "d01",
+    "text": "the table",
+    "frames": [
+     44,
+     124,
+     188
+    ]
+   },
+   {
+    "id": "d02",
+    "text": "the table nearest the refrigerator",
+    "frames": [
+     532,
+     652,
+     660
+    ]
+   },
+   {
+    "id": "d03",
+    "text": "the chair",
+    "frames": [
+     32,
+     728,
+     1160
+    ]
+   },
+   {
+    "id": "d04",
+    "text": "the oven",
+    "frames": [
+     332,
+     872,
+     1100
+    ]
+   },
+   {
+    "id": "d05",
+    "text": "the stove",
+    "frames": [
+     1056,
+     1072,
+     1080
+    ]
+   },
+   {
+    "id": "d06",
+    "text": "the stool",
+    "frames": [
+     1032,
+     1036,
+     1040
+    ]
+   },
+   {
+    "id": "d07",
+    "text": "the sofa nearest the stool",
+    "frames": [
+     0,
+     120,
+     820
+    ]
+   },
+   {
+    "id": "d08",
+    "text": "the refrigerator",
+    "frames": [
+     776,
+     816,
+     1008
+    ]
+   },
+   {
+    "id": "d09",
+    "text": "the sink",
+    "frames": [
+     276,
+     596,
+     1000
+    ]
+   },
+   {
+    "id": "d10",
+    "text": "the table",
+    "frames": [
+     648,
+     652,
+     656
+    ]
+   }
+  ]
+ }
+}

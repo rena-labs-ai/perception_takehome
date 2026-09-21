@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+answers.json
+instances.json
+score_out.json

@@ -1,0 +1,53 @@
+{
+  "suite": "home_grounding_eval_v3",
+  "date": "2026-08-27",
+  "model": "owlv2-ft-0819",
+  "protocol": {
+    "task": "spoken object query -> robot drives to a goal near the named object",
+    "success": "final goal within 0.5 m of the surveyed object footprint, correct instance where the query is unambiguous",
+    "trials_per_query": 20,
+    "robots": ["rena-02", "rena-03"],
+    "homes": ["home_7", "home_9"],
+    "notes": "identical weights, query list and homes on both units; trials alternated between units within each session"
+  },
+  "per_class_success": {
+    "refrigerator": 0.85,
+    "sofa": 0.80,
+    "tv": 0.75,
+    "table": 0.70,
+    "sink": 0.65,
+    "chair": 0.55,
+    "stool": 0.35,
+    "cabinet": 0.18
+  },
+  "per_distance_band_success": {
+    "<1.5m": 0.88,
+    "1.5-2.5m": 0.62,
+    "2.5-3.5m": 0.34,
+    ">3.5m": 0.12
+  },
+  "detector_confidence_by_distance_band": {
+    "<1.5m": 0.61,
+    "1.5-2.5m": 0.58,
+    "2.5-3.5m": 0.54,
+    ">3.5m": 0.49
+  },
+  "per_unit_success": {
+    "rena-02": 0.66,
+    "rena-03": 0.41
+  },
+  "per_unit_goal_error_m": {
+    "rena-02": {"median": 0.21, "p90": 0.48},
+    "rena-03": {"median": 0.44, "p90": 1.10}
+  },
+  "confusions": {
+    "chair->stool": 0.30,
+    "stool->chair": 0.22,
+    "table->cabinet": 0.05
+  },
+  "offline_metrics": {
+    "detector_recall_at_iou_0.5_vs_prev_model": "+0.12",
+    "labelled_set": "1,800 frames from home_7 and home_9, boxes drawn by the data team",
+    "note": "offline recall up 12 points over the previous model; on-robot goal success down 6 points"
+  }
+}

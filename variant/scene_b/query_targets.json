@@ -1,0 +1,211 @@
+{
+ "b01": {
+  "kind": "unique",
+  "label": "table",
+  "targets": [
+   "obj_022"
+  ],
+  "frames": {
+   "12": {
+    "visible_targets": [
+     "obj_022"
+    ]
+   },
+   "520": {
+    "visible_targets": [
+     "obj_022"
+    ]
+   },
+   "948": {
+    "visible_targets": [
+     "obj_022"
+    ]
+   }
+  }
+ },
+ "b02": {
+  "kind": "absent",
+  "label": "chair",
+  "targets": [
+   "obj_013",
+   "obj_014"
+  ],
+  "frames": {
+   "100": {
+    "visible_targets": []
+   },
+   "168": {
+    "visible_targets": []
+   },
+   "336": {
+    "visible_targets": []
+   }
+  }
+ },
+ "b03": {
+  "kind": "qualified",
+  "label": "chair",
+  "targets": [
+   "obj_014"
+  ],
+  "frames": {
+   "492": {
+    "visible_targets": [
+     "obj_014"
+    ]
+   },
+   "540": {
+    "visible_targets": [
+     "obj_014"
+    ]
+   },
+   "960": {
+    "visible_targets": [
+     "obj_014"
+    ]
+   }
+  }
+ },
+ "b04": {
+  "kind": "absent",
+  "label": "stove",
+  "targets": [
+   "obj_021"
+  ],
+  "frames": {
+   "236": {
+    "visible_targets": []
+   },
+   "696": {
+    "visible_targets": []
+   },
+   "920": {
+    "visible_targets": []
+   }
+  }
+ },
+ "b05": {
+  "kind": "qualified",
+  "label": "stool",
+  "targets": [
+   "obj_019"
+  ],
+  "frames": {
+   "8": {
+    "visible_targets": [
+     "obj_019"
+    ]
+   },
+   "264": {
+    "visible_targets": [
+     "obj_019"
+    ]
+   },
+   "1000": {
+    "visible_targets": [
+     "obj_019"
+    ]
+   }
+  }
+ },
+ "b06": {
+  "kind": "unique",
+  "label": "sink",
+  "targets": [
+   "obj_018"
+  ],
+  "frames": {
+   "168": {
+    "visible_targets": [
+     "obj_018"
+    ]
+   },
+   "200": {
+    "visible_targets": [
+     "obj_018"
+    ]
+   },
+   "224": {
+    "visible_targets": [
+     "obj_018"
+    ]
+   }
+  }
+ },
+ "b07": {
+  "kind": "unique",
+  "label": "stove",
+  "targets": [
+   "obj_021"
+  ],
+  "frames": {
+   "372": {
+    "visible_targets": [
+     "obj_021"
+    ]
+   },
+   "420": {
+    "visible_targets": [
+     "obj_021"
+    ]
+   },
+   "476": {
+    "visible_targets": [
+     "obj_021"
+    ]
+   }
+  }
+ },
+ "b08": {
+  "kind": "ambiguous",
+  "label": "stool",
+  "targets": [
+   "obj_019",
+   "obj_020"
+  ],
+  "frames": {
+   "912": {
+    "visible_targets": [
+     "obj_019",
+     "obj_020"
+    ]
+   },
+   "932": {
+    "visible_targets": [
+     "obj_019",
+     "obj_020"
+    ]
+   },
+   "944": {
+    "visible_targets": [
+     "obj_019",
+     "obj_020"
+    ]
+   }
+  }
+ },
+ "b09": {
+  "kind": "unique",
+  "label": "oven",
+  "targets": [
+   "obj_015"
+  ],
+  "frames": {
+   "388": {
+    "visible_targets": [
+     "obj_015"
+    ]
+   },
+   "412": {
+    "visible_targets": [
+     "obj_015"
+    ]
+   },
+   "476": {
+    "visible_targets": [
+     "obj_015"
+    ]
+   }
+  }
+ }
+}
